@@ -4,5 +4,7 @@ public class GitPractice {
         System.out.println("test");
         
         System.out.println("satoブランチからpush");
+
+        System.out.println("再度作業！");
     }
 }
